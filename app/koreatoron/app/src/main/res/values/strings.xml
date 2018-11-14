@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">국민토론</string>
+    <string name="default_notification_channel_id">default channel</string>
+    <string name="default_notification_channel_name">notice</string>
+</resources>

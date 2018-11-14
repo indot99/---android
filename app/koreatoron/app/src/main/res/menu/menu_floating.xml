@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fab_link"
+        android:icon="@drawable/ic_link_white_24dp"
+        android:title="링크복사" />
+
+    <item
+        android:id="@+id/fab_share"
+        android:icon="@drawable/ic_share_white_24dp"
+        android:title="공유하기" />
+</menu>
