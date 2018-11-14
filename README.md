@@ -11,7 +11,7 @@
 
 사용 라이브러리 : Jsoup, firebase(FCM)
 
-![](./resource/fcm.PNG)
+![](./resource/fcm.png)
 ![](./resource/jsoup.png)
 
 저작권 정책 : 본 저작물은 '청와대 홈페이지'에서 작성하여 공공누리 제1유형으로 개방한 '토론방'을 이용하였으며, 해당 저작물은 '청와대 홈페이지,https://www1.president.co.kr/fourms?page=1#_=_에서 무료로 열람하실 수 있습니다.
